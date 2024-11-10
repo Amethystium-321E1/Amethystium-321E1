@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 -->
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amethystium-321E1&theme=github&custom_title=Ad%20Astra%20Per%20Aspera)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amethystium-321E1/Amethystium-321E1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amethystium-321E1/Amethystium-321E1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Amethystium-321E1/Amethystium-321E1/output/github-contribution-grid-snake.svg">
+</picture>
