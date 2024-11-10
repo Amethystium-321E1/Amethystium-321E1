@@ -1,7 +1,6 @@
-## Greetings 
+# Greetings, visitor. 
 
-# This is the Github profile of 
-# Amethystium-321E1 | Pengjia Cui
+## This is the Github profile of **Amethystium-321E1 | Pengjia Cui**
 
 <!--
 **Amethystium-321E1/Amethystium-321E1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amethystium-321E1&theme=github&custom_title=Amethystium | Pengjia Cui)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amethystium-321E1&theme=github&custom_title=Amethystium \| Pengjia Cui)
