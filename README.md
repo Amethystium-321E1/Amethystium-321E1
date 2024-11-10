@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amethystium-321E1)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amethystium-321E1&theme=high-contrast)
