@@ -1,26 +1,25 @@
 # **Greetings, visitor!**
 
-## This is the Github profile of **Amethystium-321E1 | Pengjia Cui**
 
-<!--
-**Amethystium-321E1/Amethystium-321E1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+This is the Github profile of **Amethystium-321E1 | Pengjia Cui**
 
-Here are some ideas to get you started:
+I'm currently an M.S. student in **Computatinal Social Science**  at **UC San Diego**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My area of interests mainly focus on **Network Science**, **Social Network Analysis**, and **Social Computing**. I'm actively seeking PhD opportunity in the mentioned areas. 
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amethystium-321E1&theme=github&custom_title=Ad%20Astra%20Per%20Aspera)
+You could find my CV on my [personal page](https://amethystium-321e1.github.io/). The website was based on [Hugo](https://gohugo.io/) using the theme [Adritian](https://github.com/zetxek/adritian-free-hugo-theme). 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amethystium-321E1/Amethystium-321E1/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amethystium-321E1/Amethystium-321E1/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Amethystium-321E1/Amethystium-321E1/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+## Contact
+- Email: pcui@ucsd.edu
+- Address: 3869 Miramar Street, La Jolla, CA 92037
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amethystium-321E1&theme=github&custom_title=Ad%20Astra%20Per%20Aspera)
+
