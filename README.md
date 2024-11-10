@@ -1,4 +1,4 @@
-# Greetings, visitor. 
+# **Greetings, visitor!**
 
 ## This is the Github profile of **Amethystium-321E1 | Pengjia Cui**
 
