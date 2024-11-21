@@ -8,7 +8,7 @@ I'm currently an M.S. student in **Computatinal Social Science**  at **UC San Di
 
 My area of interests mainly focus on **Network Science**, **Social Network Analysis**, and **Social Computing**. I'm actively seeking PhD opportunity in the mentioned areas. 
 
-You could find my CV on my [personal page](https://amethystium-321e1.github.io/). The website was based on [Hugo](https://gohugo.io/) using the theme [Adritian](https://github.com/zetxek/adritian-free-hugo-theme). 
+You could find my CV on my [personal page](https://amethystium-321e1.github.io/blog/cv/). The website was based on [Hugo](https://gohugo.io/) using the theme [Adritian](https://github.com/zetxek/adritian-free-hugo-theme). 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amethystium-321E1/Amethystium-321E1/output/github-contribution-grid-snake-dark.svg">
