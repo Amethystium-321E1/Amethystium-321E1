@@ -2,9 +2,9 @@
 
 
 ## Introduction
-This is the Github profile of **Amethystium-321E1 | Pengjia Cui**
+This is the Github profile of **Amethystium-321E1 | Pengjia Cui | Hari Tswei**
 
-I'm currently an M.S. student in **Computatinal Social Science**  at **UC San Diego**. 
+I'm currently a research assistant at **Department of Media and Communication**, **City University of Hong Kong**. 
 
 My area of interests mainly focus on **Network Science**, **Social Network Analysis**, and **Social Computing**. I'm actively seeking PhD opportunity in the mentioned areas. 
 
@@ -18,8 +18,8 @@ You could find my CV on my [personal page](https://amethystium-321e1.github.io/b
 
 
 ## Contact
-- Email: pcui@ucsd.edu
-- Address: 3869 Miramar Street, La Jolla, CA 92037
+- Email: htswewi@cityu.edu.hk;pcui@ucsd.edu
+- Address: 18 Tat Hong Avenue, Kowloon Tong, Kowloon, Hong Kong SAR
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amethystium-321E1&theme=github&custom_title=Ad%20Astra%20Per%20Aspera)
 
